@@ -15,5 +15,8 @@
     "nuxt": "^2.0.0",
     "vti": "^0.0.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "resolutions": {
+    "vti/vue-language-server/vscode-css-languageservice": "4.0.2"
+  }
 }
